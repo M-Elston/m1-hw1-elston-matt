@@ -1,5 +1,5 @@
 # <center><font color="#7575FF"><b>My First Coding Assignment</b></font></center> #
-![Close up painting of an old, tired, resigned cowboy bracketed top and bottom with bold text in white reading: ‘I finally got eight hours of sleep. It took three days, but whatever.’](Images/SleepMeme.jpg)
+<img src="Images/SleepMeme.jpg" alt="Close up painting of an old, tired, resigned cowboy bracketed top and bottom with bold text in white reading: ‘I finally got eight hours of sleep. It took three days, but whatever.'"></img>
 ## <font color="#7575FF">About Me</font> ##
 While some of the HTML codes/tags are coming back to me after so many years, this Markdown language is alien. How do I decrease the size of the above image? In HTML, I'd add the height and weight values to the image tag, but doing so to the Markdown tag doesn't seem to work. What am I doing wrong?
 ## <font color="#7575FF">Past Coding Experience</font> ##
